@@ -6,6 +6,11 @@
 - 📫 Reach me: [chandankumardas357@gmail.com](mailto:chandankumardas357@gmail.com)
 - 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-kumar-das-dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/dev__droid)
+
+
 ## 🛠️ Languages & Tools
 <!-- Languages -->
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
@@ -33,7 +38,11 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
 
+
 ...
+### 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandan-droid&theme=tokyonight)
+
 
 ## 📈 GitHub Stats
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan-droid&show_icons=true&theme=radical)
