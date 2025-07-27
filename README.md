@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Chandan Kumar Das
 
 ## 🚀 About Me
-- 🔭 I’m working on Flutter, IoT and AI Projects
-- 🌱 I’m currently learning Spring Boot and Cybersecurity
+- 💻 I'm a passionate full-stack & mobile developer
+- 📱 Flutter | 🔙 Spring Boot | 🌐 Firebase | ☁️ Cloud Integration
+- 🌱 Currently learning: AI/ML, IoT integrations, and advanced Flutter animations
+- 🎯 Goal: Build scalable apps that make an impact
+- ⚡ Fun fact: I can debug better after midnight 🌙
 - 📫 Reach me: [chandankumardas357@gmail.com](mailto:chandankumardas357@gmail.com)
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-kumar-das-dev)
