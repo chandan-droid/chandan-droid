@@ -23,7 +23,8 @@
 
 <!-- Frameworks & Libraries -->
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/-JDBC-02569B?logo=jdbc&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring-boot&logoColor=white)
 
 
